@@ -68,6 +68,9 @@ Run Luo\*, **Haonan Zhang**\*, Longze Chen*, Ting-En Lin*, Xiong Liu, Yuchuan Wu
 - Learning visual question answering on controlled semantic noisy labels. PR 2023. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) <br>
 **Haonan Zhang**, Pengpeng Zeng, Yuxuan Hu, Jin Qian, Jingkuan Song, Lianli Gao
 
+- Video Question Answering with Prior Knowledge and Object-sensitive Learning. TIP 2022. [[Paper]](https://ieeexplore.ieee.org/document/9882977) [[Code]](https://github.com/zchoi/PKOL) <br>
+Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen
+
 - S2 Transformer for image captioning. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
 Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, and Lianli Gao
 

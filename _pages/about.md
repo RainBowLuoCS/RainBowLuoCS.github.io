@@ -48,7 +48,7 @@ For more information, please see my CV.
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang
 
 - MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct. arXiv 2024.09. [[Project Page]](https://mmevol.github.io/home_page.html) [[Paper]](https://arxiv.org/pdf/2409.05840) [[Code]](https://github.com/RainBowLuoCS/MMEvol) <br>
-Run Luo\*, **Haonan Zhang**\*, Longze Chen*, Ting-En Lin*, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
+Run Luo\*, **Haonan Zhang**\*, Longze Chen\*, Ting-En Lin\*, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
 
 - UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval. TCSVT 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10599510/) [[Code]](https://github.com/zchoi/UMP_TVR) <br>
 **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen

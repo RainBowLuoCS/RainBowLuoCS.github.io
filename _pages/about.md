@@ -17,14 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi, I’m Haonan Zhang (张浩楠 in Chinese). I am currently a third-year Ph.D. student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Lianli Gao](https://scholar.google.com/citations?hl=en&user=zsm2dpYAAAAJ). 
+I received my Bachelor's degree in Computer Science and Technology from Xidian University in 2020. That same year, I joined UESTC for a Master’s degree and later transferred to the Ph.D. program in 2022.
+Currently, I am also a visiting Ph.D. student at the Multimedia and Human Understanding Group (MHUG), University of Trento (Italy), supervised by Prof. [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
+
+My research interests focus on Multi-modal Learning, LLMs. I am currently exploring the exciting and fast-growing field of Vision-Language-Action (VLA) models as part of my recent research.
+
+For more information, please see my CV.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by TCSVT 2024.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM Multimedia 2024.
+- *2024.05*: &nbsp;🎉🎉 Join **Tongyi Lab@Beijing** for a summer internship.
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by TCSVT 2023.
+
+
 
 # 📝 Publications 
 

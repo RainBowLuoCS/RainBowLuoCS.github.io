@@ -47,7 +47,7 @@ OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Langu
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang
 
 MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct. arXiv 2024.09 [[Project Page]](https://mmevol.github.io/home_page.html) [[Paper]](https://arxiv.org/pdf/2409.05840) [[Code]](https://github.com/RainBowLuoCS/MMEvol) <br>
-Run Luo*, **Haonan Zhang***, Longze Chen*, Ting-En Lin*, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
+Run Luo*, **Haonan Zhang<sup>*</sup>**, Longze Chen*, Ting-En Lin*, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
 
 
 # 🎖 Honors and Awards

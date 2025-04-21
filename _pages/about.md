@@ -41,12 +41,13 @@ For more information, please see my CV.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -->
-* indicates equal contribution
 
-OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. arXiv 2025.01 [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni) <br>
+<sup>*</sup> indicates equal contribution
+
+- OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. arXiv 2025.01 [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni) <br>
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang
 
-MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct. arXiv 2024.09 [[Project Page]](https://mmevol.github.io/home_page.html) [[Paper]](https://arxiv.org/pdf/2409.05840) [[Code]](https://github.com/RainBowLuoCS/MMEvol) <br>
+- MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct. arXiv 2024.09 [[Project Page]](https://mmevol.github.io/home_page.html) [[Paper]](https://arxiv.org/pdf/2409.05840) [[Code]](https://github.com/RainBowLuoCS/MMEvol) <br>
 Run Luo*, **Haonan Zhang<sup>*</sup>**, Longze Chen*, Ting-En Lin*, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
 
 

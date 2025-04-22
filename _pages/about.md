@@ -74,17 +74,25 @@ Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen
 - S2 Transformer for image captioning. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
 Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, and Lianli Gao
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Scholarships
+- 2025.03 “Academic Newcomer” Graduate Student Honor Award.
+- 2024.12 National Scholarship.
+- 2024.07 The Ninth-Place Winner in Challenge of Black-box Adversarial Attacks on Vision Foundation Models in CVPR 2024.
+- 2024.05 Shenzhen Stock Exchange Scholarship.
+- 2024.04 The 1<sup>st</sup> Place Winner in Attribute Recognition track in MMVRAC, ICME 2024.
+- 2023.11 First-class Scholarship.
+- 2022.07 Outstanding Graduate Student Cadre.
+- 2023.06 Outstanding Graduate Teaching Assistant Award.
+- 2022.06 “Academic Youth” Graduate Student Honor Award.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2022.09 - (now), University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
+- 2020.09 - 2022.06, University of Electronic Science and Technology of China, Chengdu, China, Master of Computer Technology, transferred to Ph.D.
+- 2016.09 - 2020.06, Xidian University, Xian, China, Bachelor of Computer Science and Technology.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2025.04*, [Tongyi Lab](https://careers-tongyi.alibaba.com/home?lang=zh), Alibaba Group, China.
+
+# ☘ Services
+Program Committee of AAAI25, Reviewer for CVPR23-25, ICCV25, ICLR25, ACM MM, etc.
+Reviewer for TIP, TCSVT, TMM, etc.

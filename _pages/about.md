@@ -97,3 +97,7 @@ Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, and Lianli Gao
 Program Committee of AAAI25, Reviewer for CVPR23-25, ICCV25, ICLR25, ACM MM, etc.
 
 Reviewer for TIP, TCSVT, TMM, etc.
+
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?haonanzhang"
+border="0" alt="Free Web Counters"></a> visitors since Apr. 2025

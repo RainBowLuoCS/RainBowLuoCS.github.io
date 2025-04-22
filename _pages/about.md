@@ -93,7 +93,7 @@ Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, and Lianli Gao
 # 💻 Internships
 - *2024.05 - 2025.04*, [Tongyi Lab](https://careers-tongyi.alibaba.com/home?lang=zh), Alibaba Group, China.
 
-# ☘ Services
+# 💬 Services
 Program Committee of AAAI25, Reviewer for CVPR23-25, ICCV25, ICLR25, ACM MM, etc.
 
 Reviewer for TIP, TCSVT, TMM, etc.

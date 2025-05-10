@@ -28,6 +28,7 @@ For more information, please see my CV.
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by TIP 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by TCSVT 2024.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM Multimedia 2024.
 - *2024.05*: &nbsp;🎉🎉 Join **Tongyi Lab@Beijing** for a summer internship.
@@ -43,6 +44,9 @@ For more information, please see my CV.
 -->
 
 \* indicates equal contribution
+
+- Text-Video Retrieval with Global-Local Semantic Consistent Learning. TIP 2025. [Paper] [[Code]](https://github.com/zchoi/GLSCL) <br>
+**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Heng Tao Shen
 
 - OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. arXiv 2025.01. [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni) <br>
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang

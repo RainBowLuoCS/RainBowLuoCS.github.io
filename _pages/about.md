@@ -57,9 +57,6 @@ Run Luo\*, **Haonan Zhang**\*, Longze Chen\*, Ting-En Lin\*, Xiong Liu, Yuchuan 
 - UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval. TCSVT 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10599510/) [[Code]](https://github.com/zchoi/UMP_TVR) <br>
 **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen
 
-- Text-video retrieval with global-local semantic consistent learning. arXiv 2024. <br>
-**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Hengtao Shen
-
 - MPT: Multi-grained Prompt Tuning for Text-Video Retrieval. ACM Multimedia 2024. [[Paper]](https://openreview.net/pdf?id=sIwZ6TIn0P) [[Code]](https://github.com/zchoi/MPT) <br>
 **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen
 

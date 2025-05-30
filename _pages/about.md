@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I’m Haonan Zhang (张浩楠 in Chinese). I am currently a third-year Ph.D. student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Lianli Gao](https://scholar.google.com/citations?hl=en&user=zsm2dpYAAAAJ). 
+Hi, I’m Haonan Zhang (张浩楠 in Chinese). I am currently a third-year Ph.D. student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Lianli Gao](https://scholar.google.com/citations?hl=en&user=zsm2dpYAAAAJ) and Prof. [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/). 
 I received my Bachelor's degree in Computer Science and Technology from Xidian University in 2020. That same year, I joined UESTC for a Master’s degree and later transferred to the Ph.D. program in 2022.
 Currently, I am also a visiting Ph.D. student at the Multimedia and Human Understanding Group (MHUG), University of Trento (Italy), supervised by Prof. [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
 

@@ -47,37 +47,48 @@ For more information, please see my CV.
 \* indicates equal contribution
 
 - OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction. **ACL 2025**. <br>
-**Haonan Zhang**, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li
+**Haonan Zhang**, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li<br>
+[[Paper]](https://www.arxiv.org/pdf/2505.20277) [Code]
 
-- MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct. **ACL 2025（Findings）**. [[Project Page]](https://mmevol.github.io/home_page.html) [[Paper]](https://arxiv.org/pdf/2409.05840) [[Code]](https://github.com/RainBowLuoCS/MMEvol) <br>
-Run Luo\*, **Haonan Zhang**\*, Longze Chen\*, Ting-En Lin\*, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li
+- MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct. **ACL 2025（Findings）**.  <br>
+Run Luo\*, **Haonan Zhang**\*, Longze Chen\*, Ting-En Lin\*, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li <br>
+[[Project Page]](https://mmevol.github.io/home_page.html) [[Paper]](https://arxiv.org/pdf/2409.05840) [[Code]](https://github.com/RainBowLuoCS/MMEvol)
 
-- Text-Video Retrieval with Global-Local Semantic Consistent Learning. **TIP 2025**. [Paper] [[Code]](https://github.com/zchoi/GLSCL) <br>
-**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Heng Tao Shen
+- Text-Video Retrieval with Global-Local Semantic Consistent Learning. **TIP 2025**. <br>
+**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Heng Tao Shen <br>
+[[Paper]](https://ieeexplore.ieee.org/document/11024127?source=authoralert) [[Code]](https://github.com/zchoi/GLSCL)
 
-- OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **arXiv 2025.01**. [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni) <br>
-Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang
+- OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **arXiv 2025.01**. <br>
+Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang <br>
+[[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
 
-- UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval. **TCSVT 2024**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10599510/) [[Code]](https://github.com/zchoi/UMP_TVR) <br>
-**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen
+- UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval. **TCSVT 2024**. <br>
+**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10599510/) [[Code]](https://github.com/zchoi/UMP_TVR)
 
-- MPT: Multi-grained Prompt Tuning for Text-Video Retrieval. **ACM Multimedia 2024**. [[Paper]](https://openreview.net/pdf?id=sIwZ6TIn0P) [[Code]](https://github.com/zchoi/MPT) <br>
-**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen
+- MPT: Multi-grained Prompt Tuning for Text-Video Retrieval. **ACM Multimedia 2024**. <br>
+**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+[[Paper]](https://openreview.net/pdf?id=sIwZ6TIn0P) [[Code]](https://github.com/zchoi/MPT)
 
-- SPT: Spatial pyramid transformer for image captioning. **TCSVT 2023**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10328641) [[Code]](https://github.com/zchoi/SPT) <br>
-**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Xinyu Lyu, Jingkuan Song, Heng Tao Shen
+- SPT: Spatial pyramid transformer for image captioning. **TCSVT 2023**. <br>
+**Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Xinyu Lyu, Jingkuan Song, Heng Tao Shen<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10328641) [[Code]](https://github.com/zchoi/SPT)
 
-- Depth-aware sparse transformer for video-language learning. **ACM Multimedia 2023**. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3611714) [[Code]](https://github.com/zchoi/DAST) <br>
-**Haonan Zhang**, Lianli Gao, Pengpeng Zeng, Alan Hanjalic, Heng Tao Shen
+- Depth-aware sparse transformer for video-language learning. **ACM Multimedia 2023**. <br>
+**Haonan Zhang**, Lianli Gao, Pengpeng Zeng, Alan Hanjalic, Heng Tao Shen<br>
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3611714) [[Code]](https://github.com/zchoi/DAST)
 
-- Learning visual question answering on controlled semantic noisy labels. **PR 2023**. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC) <br>
-**Haonan Zhang**, Pengpeng Zeng, Yuxuan Hu, Jin Qian, Jingkuan Song, Lianli Gao
+- Learning visual question answering on controlled semantic noisy labels. **PR 2023**. <br>
+**Haonan Zhang**, Pengpeng Zeng, Yuxuan Hu, Jin Qian, Jingkuan Song, Lianli Gao <br>
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323000407) [[Code]](https://github.com/zchoi/SNLC)
 
-- Video Question Answering with Prior Knowledge and Object-sensitive Learning. **TIP 2022**. [[Paper]](https://ieeexplore.ieee.org/document/9882977) [[Code]](https://github.com/zchoi/PKOL) <br>
-Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen
+- Video Question Answering with Prior Knowledge and Object-sensitive Learning. **TIP 2022**. <br>
+Pengpeng Zeng, **Haonan Zhang**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9882977) [[Code]](https://github.com/zchoi/PKOL)
 
-- S2 Transformer for image captioning. **IJCAI 2022**. [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) <br>
-Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, and Lianli Gao
+- S2 Transformer for image captioning. **IJCAI 2022**. <br>
+Pengpeng Zeng\*, **Haonan Zhang**\*, Jingkuan Song, and Lianli Gao <br>
+[[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf) [[Code]](https://github.com/zchoi/S2-Transformer) 
 
 # 🎖 Honors and Scholarships
 - 2025.03 “Academic Newcomer” Graduate Student Honor Award.

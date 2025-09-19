@@ -47,6 +47,10 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 \* indicates equal contribution
 
+- OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **NeurIPS 2025**. <br>
+Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang <br>
+[[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
+
 - OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction. **ACL 2025**. <br>
 **Haonan Zhang**, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li<br>
 [[Paper]](https://www.arxiv.org/pdf/2505.20277) [Code]
@@ -58,10 +62,6 @@ Run Luo\*, **Haonan Zhang**\*, Longze Chen\*, Ting-En Lin\*, Xiong Liu, Yuchuan 
 - Text-Video Retrieval with Global-Local Semantic Consistent Learning. **TIP 2025**. <br>
 **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Heng Tao Shen <br>
 [[Paper]](https://ieeexplore.ieee.org/document/11024127?source=authoralert) [[Code]](https://github.com/zchoi/GLSCL)
-
-- OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **arXiv 2025.01**. <br>
-Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang <br>
-[[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
 
 - UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval. **TCSVT 2024**. <br>
 **Haonan Zhang**, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>

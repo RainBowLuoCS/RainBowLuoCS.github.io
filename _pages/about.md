@@ -28,6 +28,7 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by TIP 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by TCSVT 2024.

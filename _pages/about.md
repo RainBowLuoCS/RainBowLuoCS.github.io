@@ -51,6 +51,9 @@ For more information, please see my [CV](https://zchoi.github.io/assets/cv_haona
 Run Luo, Ting-En Lin, **Haonan Zhang**, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Hamid Alinejad-Rokny, Fei Huang <br>
 [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
 
+- Bipolar Self-attention for Spiking Transformers. **NeurIPS 2025 (spotlight)**. <br>
+Shuai Wang, Malu Zhang, Jingya Wang, Dehao Zhang, Yimeng Shan, Jieyuan Zhang, Yichen Xiao, Honglin Cao, **Haonan Zhang**, Zeyu Ma, Yang Yang, Haizhou Li <br>
+
 - OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction. **ACL 2025**. <br>
 **Haonan Zhang**, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li<br>
 [[Paper]](https://www.arxiv.org/pdf/2505.20277) [Code]

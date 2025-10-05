@@ -46,10 +46,10 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 - VCM: Vision Concept Modeling with Adaptive Vision Token Compression. **NeurIPS 2025**. <br>**Run Luo**, Renke Shan, Longze Chen, Ziqiang Liu, Lu Wang, Min Yang, Xiaobo Xia <br>
 [[Paper]](https://arxiv.org/abs/2504.19627) 
 - OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction. **ACL 2025**. <br>
-Haonan Zhang*, **Run Luo ***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li<br>
+Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li<br>
 [[Paper]](https://www.arxiv.org/pdf/2505.20277) [Code](https://github.com/zchoi/OmniCharacter)
 - MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct. **ACL 2025（Findings）**.  <br>
-**Run** **Luo**, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li <br>
+**Run Luo**, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, Pengpeng Zeng, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li <br>
 [[Project Page]](https://mmevol.github.io/home_page.html) [[Paper]](https://arxiv.org/pdf/2409.05840) [[Code]](https://github.com/RainBowLuoCS/MMEvol)
 - DEEM: Diffusion models serve as the eyes of large language models for image perception. **ICLR 2025** **Spotlight**. <br>
 **Run Luo**, Yunshui Li, Longze Chen, Wanwei He, Ting-En Lin, Ziqiang Liu, Lei Zhang, Zikai Song, Xiaobo Xia, Tongliang Liu, Min Yang, Binyuan Hui <br>
@@ -57,7 +57,7 @@ Haonan Zhang*, **Run Luo ***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng,
 - DiffusionTrack: Diffusion Model For Multi-Object Tracking. **AAAI 2023**. <br>
 **Run Luo**, Zikai Song, Lintao Ma, Jinlin Wei, Wei Yang, Min Yang<br>
 [[Paper]](https://arxiv.org/abs/2308.09905) [[Code]](https://github.com/RainBowLuoCS/DiffusionTrack)
-- Compact Transformer Tracker with Correlative Masked Modeling. **AAAI 2022****. <br>Zikai Song\*, **Run Luo**\*, Junqing Yu, Chen Yi-Ping Phoebe, Wei Yang<br>
+- Compact Transformer Tracker with Correlative Masked Modeling. **AAAI 2022**. <br>Zikai Song\*, **Run Luo\***, Junqing Yu, Chen Yi-Ping Phoebe, Wei Yang<br>
 [[Paper]](https://arxiv.org/abs/2301.10938) [[Code]](https://github.com/HUSTDML/CTTrack)
 
 # 🎖 Honors and Scholarships

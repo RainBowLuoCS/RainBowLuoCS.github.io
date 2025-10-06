@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Run Luo. I am currently a third-year Master student in Computer Technology at the University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Min Yang](https://minyang.me/). I received my Bachelor's degree in Software Engineering from Huazhong University of Science and Technology (HUST) in 2019.  My research interests focus on Visual Tracking, Diffusion Model, Multi-modal Learning, and Large Language Models. I am currently exploring a unified omnimodal foundational model involving vision, audio, and text modalities, and I hope to see the model generate synergy and benefit from both generation and understanding, thereby extending the intelligence boundaries of existing models. I firmly believe that it can unify the paradigms of world models or vision-language-action models, and through this, benefit interactions across different physical devices and the real world.
+Hi, I’m Run Luo. I am currently a third-year Master student in Computer Technology at the University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Min Yang](https://minyang.me/). I received my Bachelor's degree in Software Engineering from Huazhong University of Science and Technology (HUST) in 2023.  My research interests focus on Visual Tracking, Diffusion Model, Multi-modal Learning, and Large Language Models. I am currently exploring a unified omnimodal foundational model involving vision, audio, and text modalities, and I hope to see the model generate synergy and benefit from both generation and understanding, thereby extending the intelligence boundaries of existing models. I firmly believe that it can unify the paradigms of world models or vision-language-action models, and through this, benefit interactions across different physical devices and the real world.
 
 
 # 🔥 News
@@ -40,7 +40,7 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 - GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents. **Arxiv**<br>
 **Run Luo**, Lu Wang, Wanwei He, Longze Chen, Jiaming Li, Min Yang, Xiaobo Xia <br>
 [[Paper]](https://arxiv.org/abs/2504.10458) [[Code]](https://github.com/ritzz-ai/GUI-R1)
-- OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis. **NeurIPS 2025**. <br>
+- OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech Synthesis. **NeurIPS 2025**. <br>
 **Run Luo**, Ting-En Lin, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Xiaobo Xia, Hamid Alinejad-Rokny, Fei Huang <br>
 [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
 - VCM: Vision Concept Modeling with Adaptive Vision Token Compression. **NeurIPS 2025**. <br>**Run Luo**, Renke Shan, Longze Chen, Ziqiang Liu, Lu Wang, Min Yang, Xiaobo Xia <br>
@@ -64,7 +64,7 @@ Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng,
 - 2025.10 National Scholarship.
 
 # 📖 Educations
-- 2023.09 - 2026.06, **University** **of** **Chinese** **Academy** **of** **Sciences**, Master of Computer Technology.
+- 2023.09 - 2026.06, **University of Chinese Academy of Sciences**, Master of Computer Technology.
 - 2019.09 - 2023.06, **Huazhong University of Science and Technology**, Bachelor of Software Engineering.
 
 # 💻 Internships

@@ -77,5 +77,5 @@ Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng,
 <img src="https://www.easycounter.com/counter.php?runluo"
 border="0" alt="Free Web Counters"></a> visitors since Oct. 2025
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sSqg5mWL7c8Y6ZbC3SlJNgnYZ94lgifrRe0U1CxnI70&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1c84s"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=sSqg5mWL7c8Y6ZbC3SlJNgnYZ94lgifrRe0U1CxnI70&cl=ffffff" /></a>
 

@@ -27,7 +27,7 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 - *2024.11*: &nbsp;🎉🎉 Two paper is accepted by AAAI 2024.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024.
 - *2024.04*: &nbsp;🎉🎉 Join **Tongyi Lab@Beijing** for a internship.
-- *2024.04*: 🎉🎉 Two papers are accepted by ACL 2025.
+- *2024.04*: 🎉🎉 Two papers are accepted by ACL 2024.
 - *2023.11*: 🎉🎉 One paper is accepted by AAAI 2023.
 - *2022.11*: 🎉🎉 One paper is accepted by AAAI 2022.
 

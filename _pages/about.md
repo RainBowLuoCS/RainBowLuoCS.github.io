@@ -23,6 +23,7 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
+- *2025.01*: &nbsp;🎉🎉 Join **MiHoyo NLP Lab@Beijing** for a internship.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
 - *2024.11*: &nbsp;🎉🎉 Two paper is accepted by AAAI 2024.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024.

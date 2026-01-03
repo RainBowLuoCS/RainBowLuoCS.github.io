@@ -31,7 +31,7 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 - *2023.11*: 🎉🎉 One paper is accepted by AAAI 2023.
 - *2022.11*: 🎉🎉 One paper is accepted by AAAI 2022.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 \* indicates equal contribution
 - NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching. **Arxiv**<br>
 **Run Luo**, Xiaobo Xia, Lu Wang, Longze Chen, Renke Shan, Jing Luo, Min Yang, Tat-Seng Chua <br>

@@ -21,6 +21,7 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
@@ -33,7 +34,7 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 
 # 📝 Selected Publications 
 \* indicates equal contribution
-- NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching. **Arxiv**<br>
+- NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching. **ICLR 2026**.<br>
 **Run Luo**, Xiaobo Xia, Lu Wang, Longze Chen, Renke Shan, Jing Luo, Min Yang, Tat-Seng Chua <br>
 [[Paper]](https://arxiv.org/abs/2510.13721) [Code (coming soon)]
 - GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents. **Arxiv**<br>

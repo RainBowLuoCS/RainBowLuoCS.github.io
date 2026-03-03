@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Run Luo"
-description              : "M.S. Student"
+description              : "Ph.D. Student"
 repository               : "RainBowLuoCS/RainBowLuoCS.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Run Luo"
   avatar           : "images/homepage-pic.jpg"
-  bio              : "HUST & UCAS"
+  bio              : "HUST & UCAS & NUS"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 

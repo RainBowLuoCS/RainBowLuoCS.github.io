@@ -21,6 +21,7 @@ Hi, I’m Run Luo. I am currently a third-year Master student in Computer Techno
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Two papers are accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.

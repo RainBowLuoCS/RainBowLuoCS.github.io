@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Run Luo. I am currently a third-year Master student in Computer Technology at the University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Min Yang](https://minyang.me/). I received my Bachelor's degree in Software Engineering from Huazhong University of Science and Technology (HUST) in 2023.  My research interests focus on Visual Tracking, Diffusion Model, Multi-modal Learning, and Large Language Models. I am currently exploring a unified omnimodal foundational model involving vision, audio, and text modalities, and I hope to see the model generate synergy and benefit from both generation and understanding, thereby extending the intelligence boundaries of existing models. I firmly believe that it can unify the paradigms of world models or vision-language-action models, and through this, benefit interactions across different physical devices and the real world.
+Hi, I’m Run Luo. I am an incoming Ph.D. student in National University of Singapore. I received my Master's degree in Computer Technology from the University of Chinese Academy of Sciences (UCAS) in 2026. Prior this, I received my Bachelor's degree in Software Engineering from Huazhong University of Science and Technology (HUST) in 2023.  My research interests focus on Visual Tracking, Diffusion Model, Multi-modal Learning, and Large Language Models. I am currently exploring a unified omnimodal foundational model involving vision, audio, and text modalities, and I hope to see the model generate synergy and benefit from both generation and understanding, thereby extending the intelligence boundaries of existing models. I firmly believe that it can unify the paradigms of world models or vision-language-action models, and through this, benefit interactions across different physical devices and the real world.
 
 
 # 🔥 News
@@ -62,9 +62,11 @@ Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng,
 [[Paper]](https://arxiv.org/abs/2301.10938) [[Code]](https://github.com/HUSTDML/CTTrack)
 
 # 🎖 Honors and Scholarships
+- 2026.05 The president of the Chinese Academy of Sciences praises
 - 2025.10 National Scholarship.
 
 # 📖 Educations
+- 2026.08 - present, **National University of Singapore**, Ph.D. of Computer Science.
 - 2023.09 - 2026.06, **University of Chinese Academy of Sciences**, Master of Computer Technology.
 - 2019.09 - 2023.06, **Huazhong University of Science and Technology**, Bachelor of Software Engineering.
 

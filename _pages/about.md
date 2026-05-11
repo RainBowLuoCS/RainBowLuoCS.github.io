@@ -37,7 +37,7 @@ Hi, I’m Run Luo. I am an incoming Ph.D. student in National University of Sing
 \* indicates equal contribution
 - NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching. **ICLR 2026**.<br>
 **Run Luo**, Xiaobo Xia, Lu Wang, Longze Chen, Renke Shan, Jing Luo, Min Yang, Tat-Seng Chua <br>
-[[Paper]](https://arxiv.org/abs/2510.13721) [Code (coming soon)]
+[[Paper]](https://arxiv.org/abs/2510.13721) [[Code]](https://github.com/ritzz-ai/NExT-OMNI)) 
 - GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents. **Arxiv**<br>
 **Run Luo**, Lu Wang, Wanwei He, Longze Chen, Jiaming Li, Min Yang, Xiaobo Xia <br>
 [[Paper]](https://arxiv.org/abs/2504.10458) [[Code]](https://github.com/ritzz-ai/GUI-R1)

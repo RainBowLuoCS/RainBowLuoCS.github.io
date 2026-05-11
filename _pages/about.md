@@ -62,7 +62,7 @@ Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng,
 [[Paper]](https://arxiv.org/abs/2301.10938) [[Code]](https://github.com/HUSTDML/CTTrack)
 
 # 🎖 Honors and Scholarships
-- 2026.05 The president of the Chinese Academy of Sciences praises
+- 2026.05 Nominee for the President's Award of University of Chinese Academy of Sciences (UCAS)
 - 2025.10 National Scholarship.
 
 # 📖 Educations

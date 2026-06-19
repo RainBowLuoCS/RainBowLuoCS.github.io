@@ -39,7 +39,7 @@ For more information, please see my [[CV]](https://rainbowluocs.github.io/assets
 \* indicates equal contribution
 - NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching. **ICLR 2026**.<br>
 **Run Luo**, Xiaobo Xia, Lu Wang, Longze Chen, Renke Shan, Jing Luo, Min Yang, Tat-Seng Chua <br>
-[[Paper]](https://arxiv.org/abs/2510.13721) [[Code]](https://github.com/ritzz-ai/NExT-OMNI)) 
+[[Paper]](https://arxiv.org/abs/2510.13721) [[Code]](https://github.com/ritzz-ai/NExT-OMNI)
 - GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents. **Arxiv**<br>
 **Run Luo**, Lu Wang, Wanwei He, Longze Chen, Jiaming Li, Min Yang, Xiaobo Xia <br>
 [[Paper]](https://arxiv.org/abs/2504.10458) [[Code]](https://github.com/ritzz-ai/GUI-R1)
@@ -47,7 +47,7 @@ For more information, please see my [[CV]](https://rainbowluocs.github.io/assets
 **Run Luo**, Ting-En Lin, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Xiaobo Xia, Hamid Alinejad-Rokny, Fei Huang <br>
 [[Paper]](https://arxiv.org/pdf/2501.04561) [[Code]](https://github.com/RainBowLuoCS/OpenOmni)
 - VCM: Vision Concept Modeling with Adaptive Vision Token Compression. **NeurIPS 2025**. <br>**Run Luo**, Renke Shan, Longze Chen, Ziqiang Liu, Lu Wang, Min Yang, Xiaobo Xia <br>
-[[Paper]](https://arxiv.org/abs/2504.19627) 
+[[Paper]](https://arxiv.org/abs/2504.19627) [[Code]](https://github.com/RainBowLuoCS/VCM)
 - OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction. **ACL 2025**. <br>
 Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, QIANG QU, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li<br>
 [[Paper]](https://www.arxiv.org/pdf/2505.20277) [[Code]](https://github.com/zchoi/OmniCharacter)

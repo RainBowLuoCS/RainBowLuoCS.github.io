@@ -73,6 +73,7 @@ Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng,
 - 2019.09 - 2023.06, **Huazhong University of Science and Technology**, Bachelor of Software Engineering.
 
 # 💻 Internships
+- *2024.11 - 2026.08*, [miHoYo](https://www.mihoyo.com/), miHoYo Pretrain Group, China.
 - *2024.04 - 2024.11*, [Tongyi Lab](https://careers-tongyi.alibaba.com/home?lang=zh), Alibaba Group, China.
 
 # 💬 Services

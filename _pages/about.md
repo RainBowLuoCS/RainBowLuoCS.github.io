@@ -34,6 +34,7 @@ For more information, please see my [[CV]](https://rainbowluocs.github.io/assets
 - *2024.04*: 🎉🎉 Two papers are accepted by ACL 2024.
 - *2023.11*: 🎉🎉 One paper is accepted by AAAI 2023.
 - *2022.11*: 🎉🎉 One paper is accepted by AAAI 2022.
+- *2022.03*: 🎉🎉 I trained the first large language model of my life, based on a 4.7B GPT-2 with 1B tokens, at [[ASC2022]](https://github.com/RainBowLuoCS/Yuan-ASC2022-).
 
 # 📝 Selected Publications 
 \* indicates equal contribution

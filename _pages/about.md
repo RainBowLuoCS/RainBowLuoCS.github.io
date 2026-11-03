@@ -65,7 +65,7 @@ Haonan Zhang*, **Run Luo\***, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng,
 [[Paper]](https://arxiv.org/abs/2301.10938) [[Code]](https://github.com/HUSTDML/CTTrack)
 
 # 🎖 Honors and Scholarships
-- 2026.05 President's Award of University of Chinese Academy of Sciences (中国科学院院长奖 Top ~0.15%)
+- 2026.05 President's Award of University of Chinese Academy of Sciences (中国科学院院长奖(**Master Only**) Top ~0.15%)
 - 2025.10 National Scholarship (国家奖学金 Top ~1%).
 
 # 📖 Educations

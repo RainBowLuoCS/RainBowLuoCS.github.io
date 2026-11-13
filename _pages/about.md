@@ -23,6 +23,7 @@ For more information, please see my [[CV]](https://rainbowluocs.github.io/assets
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 We release Gamer!
 - *2026.04*: &nbsp;🎉🎉 Two papers are accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
@@ -38,6 +39,9 @@ For more information, please see my [[CV]](https://rainbowluocs.github.io/assets
 
 # 📝 Selected Publications 
 \* indicates equal contribution
+- Gamer:A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agents. **Arxiv**.<br>
+**Run Luo**, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, Yinhe Zheng, Xiaobo Xia, Dawei Jiang, Shaoqing Ren <br>
+[[Project Page]](https://mihoyo-gamer.github.io/) [[Code]](https://github.com/RainBowLuoCS/Gamer)
 - NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching. **ICLR 2026**.<br>
 **Run Luo**, Xiaobo Xia, Lu Wang, Longze Chen, Renke Shan, Jing Luo, Min Yang, Tat-Seng Chua <br>
 [[Paper]](https://arxiv.org/abs/2510.13721) [[Code]](https://github.com/ritzz-ai/NExT-OMNI)

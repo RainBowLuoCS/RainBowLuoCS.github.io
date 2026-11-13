@@ -1,4 +1,21 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
 Hi, I’m Luo Run (🥕🏃‍♂️). I am an Ph.D. student in National University of Singapore. I received my Master's degree in Computer Technology from the University of Chinese Academy of Sciences (UCAS) in 2026. Prior this, I received my Bachelor's degree in Software Engineering from Huazhong University of Science and Technology (HUST) in 2023.  My research interests focus on Visual Tracking, Diffusion Model, Multi-modal Learning, and Large Language Models. I am currently exploring a unified omnimodal foundational model involving vision, audio, and text modalities, and I hope to see the model generate synergy and benefit from both generation and understanding, thereby extending the intelligence boundaries of existing models. I firmly believe that it can unify the paradigms of world models and vision-language-action models, and through this, benefit interaction intelligence across different physical devices and the real world.
 
 For more information, please see my [[CV]](https://rainbowluocs.github.io/assets/cv_luorun.pdf)

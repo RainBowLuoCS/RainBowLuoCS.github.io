@@ -40,7 +40,7 @@ For more information, please see my [[CV]](https://rainbowluocs.github.io/assets
 # 📝 Selected Publications 
 \* indicates equal contribution
 - Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agents. **Arxiv**.<br>
-**Run Luo**, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, <br> Yinhe Zheng, Xiaobo Xia, Dawei Jiang, Shaoqing Ren 
+**Run Luo**, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang, Yufei Zhang, Renrong Hu, Yi Zhang, <br> Yinhe Zheng, Xiaobo Xia, Dawei Jiang, Shaoqing Ren <br>
 [[Project Page]](https://mihoyo-gamer.github.io/) [[Code]](https://github.com/RainBowLuoCS/Gamer)
 - NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching. **ICLR 2026**.<br>
 **Run Luo**, Xiaobo Xia, Lu Wang, Longze Chen, Renke Shan, Jing Luo, Min Yang, Tat-Seng Chua <br>

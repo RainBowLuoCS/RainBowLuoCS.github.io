@@ -1,4 +1,4 @@
----
+<img width="1308" height="153" alt="image" src="https://github.com/user-attachments/assets/5b231665-843e-4880-9a67-e9e2354078f2" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -23,7 +23,7 @@ For more information, please see my [[CV]](https://rainbowluocs.github.io/assets
 
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉🎉 We release Gamer!
+- *2026.11*: &nbsp;🎉🎉 We release Gamer: A Generalist Foundation Model for Game Agent! 
 - *2026.04*: &nbsp;🎉🎉 Two papers are accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.

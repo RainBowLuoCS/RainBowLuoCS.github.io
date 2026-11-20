@@ -22,7 +22,7 @@ My reseach style is practical and useful (经世致用). For more information, p
 
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉🎉 We release Gamer: A Generalist Foundation Model for Game Agent! 
+- *2026.11*: &nbsp;🎉🎉 After one year hard working, we release Gamer: A Generalist Foundation Model for Game Agent! 
 - *2026.04*: &nbsp;🎉🎉 Two papers are accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.

@@ -89,5 +89,5 @@ border="0" alt="Free Web Counters"></a>
 
 visitors since Oct. 2025
 
-<a href="https://clustrmaps.com/site/1c84s"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=sSqg5mWL7c8Y6ZbC3SlJNgnYZ94lgifrRe0U1CxnI70&cl=ffffff" /></a>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=LqLRR3x5l8fpxTap1POG8QKwiedM9HEPCU8vFXbozTk&cl=ffffff&w=a"></script>
 

@@ -89,5 +89,5 @@ border="0" alt="Free Web Counters"></a>
 
 visitors since Oct. 2025
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=LqLRR3x5l8fpxTap1POG8QKwiedM9HEPCU8vFXbozTk&cl=ffffff&w=a"></script>
+<a href="https://mapmyvisitors.com/web/1c9q8"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=LqLRR3x5l8fpxTap1POG8QKwiedM9HEPCU8vFXbozTk&cl=ffffff" /></a>
 
